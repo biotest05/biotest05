@@ -1,4 +1,10 @@
-### Hi there 👋
+### about me
+
+some guy making random projects, i also like making music and mods for games.
+
+![](https://komarev.com/ghpvc/?biotest05&style=flat-square&color=green)
+
+------------------------
 
 <!--
 **biotest05/biotest05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
