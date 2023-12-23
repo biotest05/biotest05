@@ -2,7 +2,7 @@
 
 some guy making random projects, i also like making music and mods for games.
 
-![](https://komarev.com/ghpvc/?biotest05&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?biotest05)
 
 ------------------------
 
